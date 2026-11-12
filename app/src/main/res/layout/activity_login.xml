@@ -27,10 +27,4 @@ android:padding="24dp">
     android:layout_marginTop="16dp"
     android:text="Đăng nhập" />
 
-<Button
-    android:id="@+id/btnRegister"
-    style="@style/Widget.Material3.Button.OutlinedButton"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:text="Đăng ký" />
 </LinearLayout>
